@@ -8,5 +8,6 @@ of the server that u want
 commands:
 
 /help <player> | to get op
+/delete <range> | deletes all block in certain range the higher the more chance of crashing server
 
 education purpose only!!
